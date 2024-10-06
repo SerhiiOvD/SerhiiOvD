@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SerhiiOvD
 - 👀 I’m interested in Game Developing
-- 🌱 I’m currently learning Unity Engine and C# programming language 
+- 🌱 I’m working with Unity and C#
 - 📫 How to reach me : http://linkedin.com/in/serhii-ovod-185a582a7 - Linkedln.
 
 <!---
